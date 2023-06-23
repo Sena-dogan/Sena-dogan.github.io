@@ -1,16 +1,16 @@
 {
     "basics": {
-        "name": "Eren GÜN",
-        "label": "Full-Stack Application Developer",
-        "email": "hi@erengun.dev",
-        "phone": "(543) 170-4942",
-        "picture": "https://drive.google.com/file/d/1DyY6g57puBk1rPVcI1yzkXv52uinbwMH/view?usp=sharing",
+        "name": "Sena Doğan",
+        "label": "Mobile Application Developer",
+        "email": "",
+        "phone": "",
+        "picture": "https://raw.githubusercontent.com/Sena-dogan/Sena-dogan/main/sena-dogan-pp.jpg",
         "x_title": "Hey, I'm",
-        "job": "Full-Stack Application Developer",
-        "description": "Hi, I'm Eren, a developer studying at Ecole 42. I'm a quick learner, passionate about science, technology, and various development languages. Currently, I'm focusing on Flutter, a cost-effective and efficient alternative for mobile app development. With almost a year of experience in Flutter and a few months in Node.js",
+        "job": "Mobile Application Developer",
+        "description": "I am a professional mobile application and Flutter developer with nearly 1 year of experience. My expertise includes creating cross-platform applications using Flutter and Dart. I have a strong background in software development, specifically in mobile app design and development. I have been studying software, including the C and C++ programming languages, at école 42 for over 1 year. Currently, I am studying a bachelor's degree in physics at Yıldız Technical University (YTU) since 2020. I'm a professional basketball player since I was 10 years old. Also, I am passionate about software development, programming languages, sports, and music.",
         "summary": "based in Istanbul, Turkiye",
         "keywords": "personal,website,portfolio,computer,science,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,Eren,GÜN,Eren,GUN,Flutter,developer,Dart,programming,Mobile,app,development,Web,development,Ecole,42,Node.js,Cross-platform,development,Flutter,mobile,apps,Dart,web,apps,Flutter,UI,framework,JavascriptCore,QuickJS,Flutter,SDK,Dart,packages,Flutter,eren,gun",
-        "url": "https://erengun.dev",
+        "url": "https://senadogan.dev",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
@@ -22,20 +22,20 @@
         "profiles": [
             {
                 "network": "Google",
-                "username": "hi@erengun.dev",
-                "url": "mailto:hi@erengun.dev",
+                "username": "",
+                "url": "",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "erengun",
-                "url": "https://www.linkedin.com/in/erengun/",
+                "username": "zeynep-sena-dogan",
+                "url": "https://www.linkedin.com/in/zeynep-sena-dogan/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "Erengun",
-                "url": "https://github.com/Erengun",
+                "username": "Sena-dogan",
+                "url": "https://github.com/Sena-dogan",
                 "x_icon": "fab fa-github"
             }
         ]
@@ -106,37 +106,6 @@
                 "Dependency Injection",
                 "Firebase"
             ]
-        },
-        {
-            "company": "Sende.tech - Startup",
-            "position": "Web developer",
-            "website": "https://sende.tech/",
-            "startDate": "2022-05-01",
-            "endDate": "2022-07-01",
-            "summary": "Sende.tech is a startup for making shipping completely automated using UAV technologies.",
-            "highlights": "I was responsible for the development of the entire web app.",
-            "keywords": [
-                "UAV",
-                "Tubitak BIGG",
-                "Web",
-                "Startup"
-            ]
-        },
-        {
-            "company": "Piramit Tech - Cloud based software company",
-            "position": "Software developer intern",
-            "website": "https://www.piramit.com.tr",
-            "startDate": "2018-06-01",
-            "endDate": "2018-09-01",
-            "summary": "Piramit Tech is a cloud based software company. Company provides cloud based solutions for companies.",
-            "highlights": "During my internship, I learned about cloud based software development. I learned technologies like Watchguard firewall and I configured it for the company. I also learned about cloud based software development and I developed a cloud based software for a company.",
-            "keywords": [
-                "Watchguard",
-                "Firewall",
-                "Cloud",
-                "Software",
-                "Internship"
-            ]
         }
     ],
     "volunteer": [
@@ -150,26 +119,6 @@
             "highlights": [
                 "I am one of the organizers of DevFest'22. "
             ]
-        },
-        {
-            "organization": "Vorfex42 - Software development community",
-            "position": "Creator",
-            "website": "-",
-            "startDate": "2020-01-01",
-            "endDate": "2024-01-01",
-            "summary": "As the founder of this organization, I am proud to announce that we are the community sponsor of Devfest'22. Our main focus is on programming languages such as C, Python, Android, Flutter, and iOS",
-            "highlights": [
-                "As a member and founder of Vorfex42, I played a key role in developing Python and contributed significantly to our second-place win at Teknofest. "
-            ]
-        },
-        {
-            "organization": "Rising Star Scholarship Program",
-            "position": "Scholarship",
-            "website": "-",
-            "startDate": "2022-02-01",
-            "endDate": "2023-03-01",
-            "summary": "The Rising Star Scholarship is a ten-month long scholarship program provided by the T3 Foundation to 100 university students that have the potential to become technology leaders.",
-            "highlights": []
         }
     ],
     "education": [
@@ -186,39 +135,34 @@
             ]
         },
         {
-            "institution": "Istanbul University",
-            "area": "Computer Programming",
-            "studyType": "Associate",
-            "startDate": "2022-01-01",
-            "endDate": "2024-01-01",
-            "gpa": "3.0",
-            "courses": []
-        },
-        {
-            "institution": "Istanbul Arel University",
-            "area": "Computer Aided Design and Animation",
-            "studyType": "Associate",
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "gpa": "3.5",
+            "institution": "Yıldız Technical University",
+            "area": "Physics",
+            "studyType": "Bachelor's degree",
+            "startDate": "2020-09-10",
+            "endDate": "still studying",
             "courses": [
-                "Photoshop",
-                "Illustrator",
-                "After Effects",
-                "Premiere Pro",
-                "3ds Max",
-                "Autocad",
-                "Maya",
-                "Figma"
+                "Physics",
+                "Mathematics",
+                "Programming",
+                "C",
+                "C++",
+                "Python",
+                "Solidworks",
+                "Matlab",
+                "Mathematical Programming",
+                "Numerical Analysis",
+                "Differential Equations",
+                "Linear Algebra",
+                "Chemistry",
+                "Mathematical Physics",
+                "Electromagnetism",
+                "Quantum Physics",
+                "Thermodynamics",
+                "Sports",
+                "Music",
+                "Basketball Team",
+                "Wing Chun Society Management"
             ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Teknofest Swarm Simulation Competition - 2nd Place",
-            "date": "2022-07-01",
-            "awarder": "Teknofest",
-            "summary": "As a member and founder of Vorfex42, I played a key role in developing Python and contributed significantly to our second-place win at Teknofest. Our team, comprised of students and graduates from diverse backgrounds, came together under the Ecole 42 infrastructure. With a focus on software development, we excelled in the Karma Swarm Simulation Competition, optimizing unmanned vehicles for firefighting and disaster relief scenarios. Our dedication and strategic approach led to our recognition as second-place winners at Teknofest. "
         }
     ],
     "skills": [
@@ -304,29 +248,93 @@
             ]
         },
         {
-            "name": "Python",
+            "name": "Figma",
             "level": "Middle",
             "keywords": [
-                "Tkinter",
-                "Algorithms",
-                "Data Structures",
-                "Multithreading",
-                "Networking",
-                "OpenCV",
-                "Numpy",
-                "Pandas",
-                "Matplotlib",
-                "Tensorflow",
-                "Django",
-                "REST API",
-                "Selenium",
-                "BeautifulSoup",
-                "Scrapy",
-                "Pip"
+                "UI",
+                "UX",
+                "Prototyping",
+                "Wireframing",
+                "Responsive Design",
+                "Mobile Design"
             ]
         }
     ],
     "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Basketball",
+                "Wing Chun",
+                "Boxing",
+                "Martials Arts",
+                "Fitness"
+            ]
+        },
+        {
+            "name": "Music",
+            "keywords": [
+                "Electric Guitar",
+                "Guitar",
+                "Drums",
+                "Singing",
+                "Music Production",
+                "Rock And Metal Music"
+            ]
+        },
+        {
+            "name": "Cars",
+            "keywords": [
+                "Cars",
+                "American Muscle Cars",
+                "JDM Cars",
+                "Car Design",
+                "Car Modification",
+                "Car Tuning",
+                "Car Detailing",
+                "Car Photography",
+                "Car Restoration",
+                "Car Racing",
+                "Car Shows",
+                "Car Events",
+                "Car Clubs",
+                "Car Meets",
+                "Car Community",
+                "Car Culture",
+                "Car History",
+                "Car Videos",
+                "Car Movies",
+                "Car Games",
+                "Car Toys",
+                "Car Models",
+                "Car Parts",
+                "Car Accessories",
+                "Car Audio",
+                "Car Electronics",
+                "Car Gadgets"
+            ]
+        },
+        {
+            "name": "Movies, Series and Books",
+            "keywords": [
+                "Science Fiction",
+                "Fantasy",
+                "Action",
+                "Anime",
+                "Adventure",
+                "Thriller",
+                "Horror",
+                "Comedy",
+                "Drama",
+                "Crime",
+                "Mystery",
+                "Animation",
+                "Musical",
+                "Sport",
+                "Alternate Reality",
+                "Dystopia"
+            ]
+        },
         {
             "name": "Diecast Car Collection",
             "keywords": [
