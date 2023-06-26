@@ -1,19 +1,19 @@
 # Personal Website React
 
-[![Screenshot](/public/social-image.png?raw=true)](https://erengun.dev)
+[![Screenshot](/public/social-image.png?raw=true)](https://senadogan.dev)
 
-[![Website erengun.dev](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://erengun.dev)
+[![Website senadogan.dev](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://senadogan.dev)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/JoHoop/personal-website-react.svg)](https://github.com/JoHoop/personal-website-react/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoHoop/personal-website-react/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-A clean, responsive, single-page webapp template for developers. View demo at [erengun.dev](https://erengun.dev)
+A clean, responsive, single-page webapp template for developers. View demo at [senadogan.dev](https://senadogan.dev)
 
 -   built using [React](https://reactjs.org/)
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 -   styled with [Material-UI](https://material-ui.com/)
--   deployed with [Vercel](https://vercel.com) and hosted at [erengun.dev](https://erengun.dev)
+-   deployed with [Vercel](https://vercel.com) and hosted at [senadogan.dev](https://senadogan.dev)
 
 Kudos to [Cody Bennett](https://github.com/CodyJasonBennett), [José Coelho](https://github.com/jcoelho93) and [Brittany Chiang](https://github.com/bchiang7) for the inspiration.
 

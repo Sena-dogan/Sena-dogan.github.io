@@ -3,8 +3,8 @@
     "version": "0.2.0",
     "homepage": ".",
     "description": "This is a clean customizable portfolio template for developers.",
-    "repository": "https://github.com/Erengun/erengun.github.io",
-    "author": "Eren Gün <hi@erengun.dev>",
+    "repository": "https://github.com/Sena-dogan/Sena-dogan.github.io",
+    "author": "Zeynep Sena Doğan",
     "license": "MIT",
     "dependencies": {
         "@material-ui/core": "^4.11.0",
