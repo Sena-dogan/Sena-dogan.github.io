@@ -1,6 +1,6 @@
 # Personal Website React
 
-[![Screenshot](/public/social-image.png?raw=true)](https://senadogan.dev)
+<img width="1440" alt="Screen Shot 2023-06-27 at 01 38 58" src="https://github.com/Sena-dogan/Sena-dogan.github.io/assets/93337596/21129ce7-27cd-493c-8263-bfe4a343b8d0">
 
 [![Website senadogan.dev](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://senadogan.dev)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
